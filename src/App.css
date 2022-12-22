@@ -98,3 +98,20 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+/* Footer */
+
+
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #222222;
+  font-family: 'FontAwesome';
+  text-align: center;
+}
+
+footer .main-footer {
+  font-size: 14px;
+  color: #c3bec2;
+}

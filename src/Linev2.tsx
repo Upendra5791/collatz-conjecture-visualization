@@ -47,7 +47,7 @@ export default function Linev2(props: { seq: any; }) {
       }
     });
     setOptions(defaultOptions);
-    document.getElementById('chart')?.scrollIntoView({behavior: 'smooth'});
+    document.getElementById('chart')?.scrollIntoView({behavior: 'smooth', block: 'end'});
   }, [props.seq, scaleType])
 
 
