@@ -88,16 +88,6 @@ function App() {
           }
         </div>
       </div>
-      <footer id="footer" className="footer">
-        <div className="main-footer">
-          <p>“Website without visitors is like a ship lost in the horizon.” <br />
-            ― Dr. Christopher Dayagdag</p>
-          <div>
-            <p>Check out my profile <a target="_blank" href="https://upendra5791.github.io/">here</a>.
-            </p>
-          </div>
-        </div>
-      </footer>
 
     </>
   );
